@@ -6,3 +6,7 @@ git push -u origin main = manda pro repo do github tudo o que tem na pasta. Da e
 git add . = adiciona tudo o que tem na pasta no repo do github (esta pasta foi previamente vinculada ao github)
 ctrl L= limpa terminal git bash
 git commit -m “mensagem do commit”
+
+*Agora estamos na branch nova
+
+git checkout -b dev - cria e troca para branch criada
