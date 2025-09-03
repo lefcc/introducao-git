@@ -1,0 +1,8 @@
+dentro do
+git bash
+git init = para fazer com que pasta vire repositório git. Ao dar o comando git init uma pasta oculta .git é criada
+push = enviar
+git push -u origin main = manda pro repo do github tudo o que tem na pasta. Da erro se a pasta estiver vazia (pode usar só git push origin main)
+git add . = adiciona tudo o que tem na pasta no repo do github (esta pasta foi previamente vinculada ao github)
+ctrl L= limpa terminal git bash
+git commit -m “mensagem do commit”
